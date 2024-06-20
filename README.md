@@ -4,7 +4,7 @@
 - 👀 I’m interested in full-stack development and the technologies that I know are Python, C#, PHP, Laravel, JavaScript, HTML/CSS, React.js, Node.js/Express.js, MongoDB/Mongoose
 - 🌱 I’m currently learning Next.js, Typescript, Flask, ASP.NET Core Web API, Java and Docker
 - 💞️ I’m looking to collaborate on a few projects on github and make some contributions to other peoples code.
-- 📫 How to reach me: noor.ahmed232003@outlook.com
+- 📫 How to reach me: msahmed0114@gmail.com
 - ![visitors](https://visitor-badge.laobi.icu/badge?page_id=G4ryaqaan)
 - Here is a link to my portfolio website: https://p0rtf0li0-noor.netlify.app
 <br/>
@@ -28,8 +28,8 @@
 ## ✉️ Find me on:
 
 <p align="left">
- <a href="https://linkedin.com/in/"NoorAhmed" target="_blank" rel="noopener noreferrer"> <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:noor.ahmed232003@outlook.com"> <img src="https://api.softwarekeep.com/media/nimbus/helpcenter/Outlook_Logo.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://linkedin.com/in/doc004" target="_blank" rel="noopener noreferrer"> <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:msahmed0114@gmail.com"> msahmed0114@gmail.com </a>
 </p>
 
 <br />
