@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Next.js, Typescript, Flask, ASP.NET Core Web API, Java and Docker
 - 💞️ I’m looking to collaborate on a few projects on github and make some contributions to other peoples code.
 - 📫 How to reach me: noor.ahmed232003@outlook.com
-- ![](https://visitor-badge.laobi.icu/badge?page_id=G4ryaqaan.G4ryaqaan)
+- ![](https://visitor-badge.laobi.icu/badge?page_id=G4ryaqaan)
 - Here is a link to my portfolio website: https://p0rtf0li0-noor.netlify.app
 <br/>
 
